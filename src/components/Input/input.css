@@ -1,0 +1,14 @@
+.input {
+  width: 50%;
+  margin: auto;
+
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  padding: 8px;
+}
+
+.select {
+  margin-right: 16px;
+}

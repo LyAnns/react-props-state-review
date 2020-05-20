@@ -1,0 +1,11 @@
+.inner-box {
+  width: 25px;
+  height: 25px;
+
+  font-size: 8px;
+
+  display: flex;
+  align-items: center;
+
+  text-align: center;
+}
